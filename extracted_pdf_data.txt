@@ -1,0 +1,3503 @@
+--- START OF LCAC 2024.pdf ---
+DC Inverter
+ADDRESS  4-B Q Block, Old College Road, MM Alam
+Road Extension, Gulberg II, Lahore, Pakistan. 
+UAN: (042) 11 11 42437         0314 4442427
+WEB: www.haier.com       haierpakistan       haierpakistan
+60°C Cooling New Arrived
+HPK-CA-CTG-24-001-CAC
+Light Commercial AC
+Catalogue 2024
+New Product  Line-up
+R410A Inverter
+18K 24K 48K 48K 102K 24K 48K
+Non-Inverter
+Capacity
+Duct Type
+Cassette Type
+Cabinet Type
+HPU-24HE
+/DC(IK)
+HPU-24HE
+/WSDC(X-IK)
+HBU-18HE/DC HBU-24HE/DC HBU-48CE/DC HBU-48HE03/KB
+HBU-18HE/DC HPU-24HE/DC* HPU-48CE/DC* HPU-48E/DC* HPU-96HE/DC HPU-24CE03/YB
+HPU-48CE/DC HPU-48HE03/T
+Outdoor units 
+Convertible Type
+HCFU-24HE/DC
+HDU-24HE/DC
+* Outdoor name maybe diﬀerent to match indoor.
+HBU-48HE/DC
+HPU-48E/DC
+HCFU-48HE/DC
+HDU-48HE/DC
+HPU-24CE03/YB
+HCFU-48HE03
+HDU-48HE03
+HPU-96HE/DC
+HPU-96CE/DC
+HPU-96CE/DC
+HPU-48CE03/T* HPU-48HE03/T*
+HBU-48CE03/KB
+HPU-48CE03/T
+HCFU-48CE03
+HDU-48CE03
+48K
+HPU-24HE03/YB
+HBU-24CE03/KB
+HPU-24HE03/YB*
+
+Comparison of cooling seasonal power consumption 
+based on average CSPF values
+Inverter air conditioner can adjust its cooling capacity 
+according to the cooing load .this is less power consumption.
+In response to ﬂuctuating cooling  load, Non inverter air 
+conditioners  repeatedly perform  ON(full-power)/OFF 
+(zero-power) operation. Inverter air conditioners, however, 
+operate at optimal cooling capacity according to the cooling 
+load .since inverter air conditioners provide required minimum 
+cooling capacity with minimum  electrical power , total power 
+consumption can be reduced during cooling period
+Inverters operate without repeated On/Oﬀ operation
+Continuous driving without stopping and starting is more 
+fuel eﬃcient.
+When temperature does not ﬂuctuate muchthe set temperature is maintained.
+Quickly and easily make space comfortable before the arrival of oﬃce workers or shop customers. As well as quick 
+cooling at max. CapacityĠ
+Capacity
+INV Max
+Better performance than 
+non-inverter models! Reaches 
+max. capacity faster than usual 
+inverter models
+Non Max
+Start
+Start
+Reaches  the setting
+temperature faster.
+Indoor
+temp
+Setting
+temp
+Time Time
+Inverter control responds to load changes and causes minor temperature adjustments. On-inverter control frequently 
+turns ON and OFF in response to load ﬂuctuations or load mismatch and causes large temperature swings.
+Constantly stopping and starting consumes energy and 
+is less fuel eﬃcient.
+Highway driving City driving
+50% 
+reduction
+50
+100
+Previous non-inverter series
+(average)
+Cooling seasonal power 
+consumption
+New inverter
+Non-inverter
+Compare with non-inverter, 
+what can Inverter bring us
+Non inverter cooling capacity
+Inverter cooling capacity
+Cooling load Partial load area
+Rated condition
+Capacity ratio
+Load ratio
+Outdoor ambient temperature (°C) 35
+1.0
+0
+On/Oﬀ operation
+Worse eﬃciency
+Inverter Non-inverter
+Stop,go,stop...
+Set
+temperature
+Small
+temperature
+ﬁlctuation
+Large
+temperature
+ﬁlctuation
+Too hot
+Too cold Too cold
+Time
+Room
+temperature
+Inverter
+Non inverter
+Start
+What is CSPF?
+CSPF is the value for the annual toal cooling load 
+divided by the annual total power consumption at 
+outdoor  air condition speciﬁed by ISO standard 
+Energy saving
+More  comfortable
+Quick cooling
+One phase:150v-264v      
+Three phase:300v-460v
+Control Box
+Radiator Condenser
+Fan
+The compressor drive module uses haier patented 
+cooling technology
+0-150V
+150-219V 221-264V
+265-460V
+220v
+35°C
+35°C
+35°C
+· PCB computer protection coating, insect - proof, waterproof, suitable for southeast Asia
+· The ﬂat Corrugated heat exchanger of outdoor unit  can eﬀectively relieve heat exchanging capacity reducing  and 
+fault caused by the dirty condenser and extend the unit  life
+· The unit adopts anti-rat design, which eﬀectively prevents rats from entering and ensures the reliable operation 550mm super big diameter 
+aerospace helix fan 
+DC inverter compressor
+Increasing energy eﬃciency
+7-step speed DC fan motor 
+Power input reduced by 38%  comparing with AC fan motor
+Heat exchanger is 100% copper structure, easy to install and maintain
+Beneﬁt for uers
+Wide voltage voltage operation
+Low Sound level 
+Automatically resumes operation
+after power outage, ensuring
+continuous cooling comfort
+Auto Restart
+Running in High temperature 60 °C High Eﬃcient
+Stable and reliable
+
+Outdoor unit side discharge design provide so less 
+footprint , only 0.35m2 (5.5/8.5) ,0.42m2(11 ton) , very 
+easy to hang outside the wall , also less cost on the 
+outdoor unit stands in low side.  
+0.42m20.35m2
+It is convenient that Installer can connect the software to 
+PCB  port  to check all running data (the same as current 
+super match monitor software)
+Data & error code can be checked which is convenient for 
+installer;
+Installer can check outdoor unit data  (including 
+compressor/motor/EEV/module/sensor)  from dip switch 
+in PCB , installer can make easy work;
+For the indoor outdoor connection , we takes ﬂared 
+connection , not welding connection , which is easier and 
+quicker than traditional duct installation
+High Height Drop 50m which is ﬂexible for long piping 
+requirements.
+Beneﬁt for installers
+Outdoor unit side discharge & 
+less footprint  
+Software connected port
+Data check of outdoor unit (some model)
+Flared connection 
+Longer Pipe Length 50m“88” test panel: running 
+
+Be displayed on the LCD screen, perfect design Self cleaning technology clean the dust and kill the 
+bacteria in the heat exchanger , ensure the air outlet 
+the AC is clean and healthy ( Haier special)
+Cabinet
+Total pipe
+50m
+Drop pipe
+30m
+· The air conditioner adopts two stepping motors to 
+combine vertical and horizontal auto-swing to circulate 
+cool/warm air to every corner of the room
+· Rounding 3-dimensional, 160 wide angle air sending, 
+reach every corner of the room
+· According to the requirement of oﬃce room and large 
+parlor, 15m long distance.
+160°
+126°
+15m
+Cold Expansion
+Wind speed 
+control
+Higher 
+evaporator 
+surface 
+temperature, 
+frost  into 
+water take 
+away dirt are 
+removed
+Clean as 
+new
+Dirt
+Condensate
+Heat Sinks
+Control the 
+evaporator 
+surface 
+temperature, 
+frost swelling 
+shed dirt
+High eﬃciency air purify ﬁlter eﬀectively prevents the 
+smaller dust articles, insects and other materials. 
+High eﬃciency air purify ﬁlter eﬀectively prevents the 
+smaller dust articles, insects and other materials. 
+Inverter 4 ton when three phase live line change , the unit 
+can work normally
+Fixed speed 4 ton when three phase change , the indoor 
+panel will show the code , that will be easy for maintenance 
+Long piping length(50m) & Large drop(30m), more 
+ﬂexible installation and design.
+Three phase change indication
+LCD Display Self clean function Reliable protection
+Long pipe length high height drop
+High eﬃciency air purify ﬁlter
+3D  Free  Airﬂow&Long distance airﬂow
+There is no crack from the ﬂap and the panel when the 
+air conditioner oﬀ.More elegance .
+The 360°smart ﬂow cassette have particular hidden LCD 
+display design. Green display for cooling red display for 
+heating, it is very easy identiﬁed by opening mode.
+ABS material makes the panel  “piano white ” ,  diﬀerent 
+from “ dark  white” PS material color.The panel and ﬂap 
+are the same material. After  10 years , the panel  color 
+won’ t  change to yellow color because the   ABS  
+material prevents discoloration against light raying.
+Compared to conventional air inlet grill, we enlarge the 
+air inlet area by 23%, lower air speed & lower the sound 
+level. 
+The diameter of new fan is enlarged based on 
+acrodynamic theory, so that there is the least resistance 
+against airﬂow. Reduce 3dB(A) for sound level.
+Besides  3 normal speeds  we  set one extra least fan 
+speed .totally 4 speeds .Sound level  reduce 3 dB extra. 
+534X510
+Previous model
+578X578
+Round way air ﬂow
+23%
+Unique round way air ﬂow design4 way airﬂow
+20
+dB(A)
+Round way air supply without blind spot.
+Flap is closed when air conditioner oﬀ
+ABS  material panel
+Hidden LCD display
+Fan speed programme  
+New designed fan 
+Super big inlet grille
+Round way air supply
+ Cassette
+
+Lots of shops are 5 meters high ceiling.  This model can 
+be installed in 4.5 metres height. The best solution for 
+high ceiling shop.
+Cold Expansion
+Wind speed 
+control
+Higher 
+evaporator 
+surface 
+temperature, 
+frost  into 
+water take 
+away dirt are 
+removed
+Clean as 
+new
+Dirt
+Condensate
+Heat Sinks
+Control the 
+evaporator 
+surface 
+temperature, 
+frost swelling 
+shed dirt
+Self cleaning technology clean the dust and kill the 
+bacteria in the heat exchanger , ensure the air outlet the 
+AC is clean and healthy ( Haier special)
+Wen people come  the unit turn on, wen people go the the unit turn oﬀ
+The presence sensor can check if there is end user in the room. Then  change the setting degree if there is nobody 
+in the room. Energy consumption will be reduced 27%.
+The airﬂow will follow or evade the end user in accordance with end user choice on controller.
+Besides normal wired/wireless control , Haier supply wiﬁ 
+control solution. Download the “smart air 2” app in IOS 
+or android version ,you will have a  remote control freely 
+when you are out of home ,including weekly timer.
+4.5m
+2.7m
+1m
+2m
+3m
+4m
+Common
+5m
+Round way cassette
+4.2m
+765mm
+765mm
+780mm
+680mm
+Common 360° samrt ﬂow cassette
+Max.
+1000mm
+09:00 09:30 10:00 10:30 11:00 11:30 12:00 12:30 13:00 13:30 14:00 14:30 15:00 15:30 16:00 16:30
+22˚C
+24˚C
+26˚C
+28˚C
+Nobody in
+the room
+Without sensor With sensor
+Detect no 
+people 
+around
+1h cooling
+heating
+Increase1 
+degree
+Decrease1 
+degree
+after 
+4h
+after 
+4h
+1h
+2h
+2h
+3h
+3h
+cooling
+heating
+Increase1 
+degree
+Decrease1 
+degree
+4h
+4h
+cooling
+heating
+Increase1 
+degree
+Decrease1 
+degree
+cooling
+heating
+cooling
+heating
+Increase1 
+degree
+Increase1 
+degree
+maintain the 
+temperature
+maintain the 
+temperature
+The four ﬂaps can be controlled individually according to 
+end users by controller, providing maximum comfort 
+throughout the room, it is a good solution to avoid "air 
+conditioning disease".
+Innovative square hanger, ﬂexible direction adjustment, 
+avoid second try installation.
+It can lifts condensed water up to 1000mm, which is 
+more ﬂexible to install the duct according to the layout.
+There is clip to lock the panel.  Just one installer can 
+ﬁnish the screwing  for panel. Save manpower and easy 
+installation. 
+Installer can ﬁnish wiring by undoing one screw. 
+High ceiling mode
+Self clean function
+Square hanger
+High lift-up drain pump
+Convenient clip
+Individual ﬂap control   
+Absence  mode(optional)
+Automatic airﬂow direction
+Wiﬁ control (Optional)
+Undoing only one screw
+
+Cabinet
+HPU-48CE/DC HPU-48E/DC HPU-96CE/DC HPU-96HE/DC
+245 2 48128 48128 102600 102600
+2218(410 3400) 4400 4400 10020 10020
+3. 3.20 3.20 3.00 3.00
+24 72 / 48000 / 102600
+2180(41 -3674) / 4300 / 8700
+3.3 / 3.27 / 3.46
+1/220~24 /50 1/220~240/50 1/220~240/50 1/220~240/50 1/220~240/50
+12 0 2000 2000 5000 5000
+507/322/ 765 600/350/1880 600/350/1880 1200/420/1880 1200/420/1880
+633/468 1893 693/438/2035 693/438/2035 1318/605/2005 1318/605/2005
+36/ 7 59/67 59/67 133/149 133/149
+YR- E YR-HQS01 YR-HQS01 YR-HQS01 YR-HQS01
+Optional Optional Optional Optional
+1/220~2 0/50 3/380~415/50 3/380~415/50 3/380~415/50 3/380~415/50
+365 5500 7000 10500 10500
+810/28 /680 965/370/950 960/340/1250 1050/400/1636 1050/400/1636
+1031/445 745 1023/471/1120 1095/410/1430 1221/530/1795 1221/530/1795
+48.5/ 4.5 82/94 96/102 175/190 180/195
+Rot ry Rotary Rotary Rotary Rotary
+R-41 a R-410a R-410a R410a R410a
+6.3 9.52 9.52 12.70 12.70
+12. 19.05 19.05 22.20 22.20
+5 50 50 60 60
+3 30 30 30 30
+-20~ 0 10~60 -30~60 10~60 -30~60
+7
+-
+2
+5
+0
+0
+0
+0
+1
+/
+4
+H
+4
+0
+8
+/
+5
+a
+0
+5
+7
+0
+0
+6
+HPU-24HE/DC
+(IK)
+HPU-24HE
+/WSDC (X-IK)
+24000
+2200
+3.20
+3.20
+1/220~240/50
+1250
+510/305/1765
+636/451/1893
+37/42
+1/220~240/50
+3650
+810/288/680
+1031/445/745
+48.5/54.5
+R-410a
+6.35
+12.7
+50
+30
+-20~60
+Rotary
+24000
+2200
+Nominal cooling capacity Btu/h
+Rated power input W
+EER W/W
+Nominal heating capacity Btu/h
+Rated power input W
+COP W/W
+Electrical Power supply Ph/V/Hz
+Performance Air ﬂow（H/M/L） m3/h
+External dimensions (W/D/H) mm
+Shipping dimensions (W/D/H) mm
+Net/Shipping weight kg
+Standard 
+WIFI
+Electrical Power supply Ph/V/Hz
+Performance Air ﬂow (H) m3/h
+External dimensions(W/D/H) mm
+Shipping dimensions(W/D/H) mm
+Net/Shipping weight kg
+Compressor type
+Refrigerant type
+Refrigerant liquid pipe mm
+Refrigerant gas pipe mm
+Max pipe length m
+Max drop between I.U.&O.U m
+Working  temp Normal (Min-Max)
+Model
+Heating
+Performance
+Outdoor Unit
+Installation
+Cooling
+Performance
+Indoor Unit
+Installation
+Controller
+C
+Cassette
+HBU-18HE/DC HBU-24HE/DC HBU-48CE/DC HBU-48HE/DC
+Nominal cooling capacity Btu/h 18000 24000 48128 48128
+Rated power input W 1587 2150 4400 4400
+EER W/W 3.32 3.27 3.20 3.20
+Nominal heating capacity Btu/h 18300 24500 / 48000
+Rated power input W 1675 2242 / 4300
+COP W/W 3.20 3.20 / 3.27
+Electrical Power supply Ph/V/Hz 1/220~240/50 1/220~240/50 1/220~240/50 1/220~240/50
+Performance Air ﬂow（H/M/L） m3/h 700 1260 2050 2050
+External dimensions (W/D/H) mm 570/570/260 840/840/246 840/840/288 840/840/288
+Shipping dimensions (W/D/H) mm 718/680/380 990/990/340 990/990/380 990/990/380
+Net/Shipping weight kg 19/22 31/36 39.5/44.5 39.5/44.5
+Standard YR-HQS01 YR-HQS01 YR-HQS01 YR-HQS01
+Option WIFI WIFI WIFI WIFI
+Electrical Power supply Ph/V/Hz 1/220~240/50 1/220~240/50 3/380~415/50 3/380~415/50
+Performance Air ﬂow (H) m3/h 2500 3650 5500 7000
+External dimensions(W/D/H) mm 860/345/550 810/288/680 965/370/950 960/340/1250
+Shipping dimensions(W/D/H) mm 939/394/590 1031/445/745 1023/471/1120 1095/410/1430
+Net/Shipping weight kg 31/35 42/47 82/94 96/102
+Compressor type Rotary Rotary Rotary Rotary
+Refrigerant type R-410a R-410a R-410a R-410a
+Refrigerant liquid pipe mm 6.35 9.52 9.52 9.52
+Refrigerant gas pipe mm 12.7 15.88 19.05 19.05
+Max pipe length m 30 30 50 50
+Max drop between I.U.&O.U m 10 15 30 30
+Working  temp Normal (Min-Max) -20~60 -20~60 10~60 -20~60
+Model
+Heating
+Performance
+Outdoor Unit
+Installation
+Cooling
+Performance
+Indoor Unit
+Installation
+Controller
+C
+YR-HE
+Built-in Optional
+HPU-24HE/WSDC (X-IK)
+WIFI & Self Cleaning
+HBU-18HE/DC HBU-24HE/DC
+HBU-48CE/DC
+HBU-48HE/DC
+HPU-24HE/DC (IK) HPU-48CE/DC HPU-96CE/DC
+HPU-48E/DC HPU-96HE/DC
+Convertible Duct
+HCFU-24HE/DC HCFU-48HE/DC
+Nominal cooling capacity Btu/h 24000 48128
+Rated power input W 2150 4400
+EER W/W 3.27 3.20
+Nominal heating capacity Btu/h 24500 48000
+Rated power input W 2242 4300
+COP W/W 3.20 3.27
+Electrical Power supply Ph/V/Hz 1/220~240/50 1/220~240/50
+Performance Air ﬂowčH/M/LĎ m3/h 1250/1128/930/840 2350/1980/1800
+External dimensions (W/D/H) mm 1325/680/230 1650/680/230
+Shipping dimensions (W/D/H) mm 1425/779/305 1750/779/305
+Net/Shipping weight kg 35/41.9 47/55
+Standard YR-HQS01 YR-HQS01
+Option WIFI WIFI
+Electrical Power supply Ph/V/Hz 1/220~240/50 3/380~415/50
+Performance Air ﬂow (H) m3/h 3650 7000
+External dimensions(W/D/H) mm 810/288/680 965/370/950
+Shipping dimensions(W/D/H) mm 1031/445/745 1023/471/1120
+Net/Shipping weight kg 42/47 82/94
+Compressor type Rotary Rotary
+Refrigerant type R-410a R-410a
+Refrigerant liquid pipe mm 9.52 9.52
+Refrigerant gas pipe mm 15.88 19.05
+Max pipe length m 50 50
+Max drop between I.U.&O.U m 30 30
+Working  temp Normal (Min-Max) -20~60 -20~60
+Model
+Heating
+Performance
+Outdoor Unit
+Installation
+Cooling
+Performance
+Indoor Unit
+Installation
+Controller
+HDU-24HE/DC HDU-48HE/DC
+Nominal cooling capacity Btu/h 24000 48128
+Rated power input W 2150 4400
+EER W/W 3.27 3.20
+Nominal heating capacity Btu/h 24500 48000
+Rated power input W 2242 4300
+COP W/W 3.20 3.27
+Electrical Power supply Ph/V/Hz 1/220~240/50 1/220~240/50
+Performance Air ﬂow（H/M/L） m3/h 1000/850/750 2600/2200/1950
+External dimensions (W/D/H) mm 1170/420/185 1500/700/248
+Shipping dimensions (W/D/H) mm 1365/540/270 1710/870/330
+Net/Shipping weight kg 26/30 51/60
+Standard YR-E17 YR-E17
+Option WIFI WIFI
+Electrical Power supply Ph/V/Hz 1/220~240/50 3/380~415/50
+Performance Air ﬂow (H) m3/h 3650 7000
+External dimensions(W/D/H) mm 810/288/680 965/370/950
+Shipping dimensions(W/D/H) mm 1031/445/745 1023/471/1120
+Net/Shipping weight kg 42/47 82/94
+Compressor type Rotary Rotary
+Refrigerant type R-410a R-410a
+Refrigerant liquid pipe mm 9.52 9.52
+Refrigerant gas pipe mm 15.88 19.05
+Max pipe length m 50 50
+Max drop between I.U.&O.U m 30 30
+Working  temp Normal (Min-Max) -20~60 -20~60
+Model
+Heating
+Performance
+Outdoor Unit
+Installation
+Cooling
+Performance
+Indoor Unit
+Installation
+Controller
+C C
+HCFU-24HE/DC HCFU-48HE/DC HDU-24HE/DC HDU-48HE/DC
+Cabinet Cassette
+HBU-24CE03/KB HBU-48CE03/KB HBU-48HE03/KB
+Nominal cooling capacity Btu/h 24000 48000 48000
+Rated power input W 2425 4400 4400
+EER W/W 2.90 3.20 3.20
+Nominal heating capacity Btu/h / / 48000
+Rated power input W / / 4530
+COP W/W / / 3.10
+Electrical Power supply Ph/V/Hz 1/220~240/50 1/220~240/50 1/220~240/50
+Performance Air ﬂow（H/M/L） m3/h 1250 2050 2050
+External dimensions (W/D/H) mm 840/840/246 840/840/288 840/840/288
+Shipping dimensions (W/D/H) mm 990/990/340 990/990/380 990/990/380
+Net/Shipping weight kg 29/34 39.5/44.5 39.5/44.5
+Standard YR-HQS01 YR-HQS01 YR-HQS01
+Option
+Electrical Power supply Ph/V/Hz 1/220~240/50 3/380~415/50 3/380~415/50
+Performance Air ﬂow (H) m3/h 3650 5500 7000
+External dimensions(W/D/H) mm 810/288/680 965/370/950 960/340/1250
+Shipping dimensions(W/D/H) mm 1031/445/745 1023/471/1120 1095/410/1430
+Net/Shipping weight kg 48/54 85/97 95/105
+Compressor type Rotary Rotary Rotary
+Refrigerant type R-410a R-410a R410a
+Refrigerant liquid pipe mm 9.52 9.52 9.52
+Refrigerant gas pipe mm 15.88 19.05 19.05
+Max pipe length m 30 50 50
+Max drop between I.U.&O.U m 15 30 30
+Working  temp Normal (Min-Max) 10~53 10~53 -7~53
+Model
+Heating
+Performance
+Outdoor Unit
+Installation
+Cooling
+Performance
+Indoor Unit
+Installation
+Controller
+HPU-24CE03/YB(IK) HPU-24HE03/YB(IK) HPU-48CE03/T HPU-48HE03/T
+Nominal cooling capacity Btu/h 24000 24000 48000 48000
+Rated power input W 2425 2425 4400 4400
+EER W/W 2.90 2.90 3.20 3.20
+Nominal heating capacity Btu/h / 24000 / 48000
+Rated power input W / 2425 / 4530
+COP W/W / 2.90 / 3.10
+Electrical Power supply Ph/V/Hz 1/220~240/50 1/220~240/50 1/220~240/50 1/220~240/50
+Performance Air ﬂow（H/M/L） m3/h 1200 1200 2000 2000
+External dimensions (W/D/H) mm 507/322/1765 507/322/1765 600/350/1880 600/350/1880
+Shipping dimensions (W/D/H) mm 633/468/1893 633/468/1893 693/438/2035 693/438/2035
+Net/Shipping weight kg 36/47 36/47 59/67 59/67
+Standard YR-HE YR-HE YR-HQS01 YR-HQS01
+Option WIFI WIFI
+Electrical Power supply Ph/V/Hz 1/220~240/50 1/220~240/50 3/380~415/50 3/380~415/50
+Performance Air ﬂow (H) m3/h 3650 3650 5500 7000
+External dimensions(W/D/H) mm 810/288/680 810/288/680 965/370/950 960/340/1250
+Shipping dimensions(W/D/H) mm 1031/445/745 1031/445/745 1023/471/1120 1095/410/1430
+Net/Shipping weight kg 48/54 52/58 85/97 95/105
+Compressor type Rotary Rotary Rotary Rotary
+Refrigerant type R-410a R-410a R-410a R410a
+Refrigerant liquid pipe mm 6.35 6.35 9.52 9.52
+Refrigerant gas pipe mm 12.7 12.7 19.05 19.05
+Max pipe length m 30 30 50 50
+Max drop between I.U.&O.U m 15 15 30 30
+Working  temp Normal (Min-Max) 10~53 -7~53 10~53 -7~53
+Model
+Heating
+Performance
+Outdoor Unit
+Installation
+Cooling
+Performance
+Indoor Unit
+Installation
+Controller
+C C
+HPU-24CE03/YB (IK)
+HPU-24HE03/YB (IK)
+HPU-48CE03/T HBU-48CE03/KB
+HBU-24CE03/KB
+HBU-48HE03/KBHPU-48HE03/T
+Convertible Duct
+HDU-48CE03 HDU-48HE03
+Nominal cooling capacity Btu/h 48000 48000
+Rated power input W 4400 4400
+EER W/W 3.20 3.20
+Nominal heating capacity Btu/h / 48000
+Rated power input W / 4530
+COP W/W / 3.10
+Electrical Power supply Ph/V/Hz 1/220~240/50 1/220~240/50
+Performance Air ﬂow（H/M/L） m3/h 2600/2200/1950 2600/2200/1950
+External dimensions (W/D/H) mm 1500/700/248 1500/700/248
+Shipping dimensions (W/D/H) mm 1710/870/330 1710/870/330
+Net/Shipping weight kg 51/60 51/60
+Standard YR-E17 YR-E17
+Option
+Electrical Power supply Ph/V/Hz 3/380~415/50 3/380~415/50
+Performance Air ﬂow (H) m3/h 5500 7000
+External dimensions(W/D/H) mm 965/370/950 960/340/1250
+Shipping dimensions(W/D/H) mm 1023/471/1120 1095/410/1430
+Net/Shipping weight kg 85/97 95/105
+Compressor type Rotary Rotary
+Refrigerant type R-410a R410a
+Refrigerant liquid pipe mm 9.52 9.52
+Refrigerant gas pipe mm 19.05 19.05
+Max pipe length m 50 50
+Max drop between I.U.&O.U m 30 30
+Working  temp Normal (Min-Max) 10~53 -7~53
+Model
+Heating
+Performance
+Outdoor Unit
+Installation
+Cooling
+Performance
+Indoor Unit
+Installation
+Controller
+HCFU-48CE03 HCFU-48HE03
+Nominal cooling capacity Btu/h 48000 48000
+Rated power input W 4400 4400
+EER W/W 3.20 3.20
+Nominal heating capacity Btu/h / 48000
+Rated power input W / 4530
+COP W/W / 3.10
+Electrical Power supply Ph/V/Hz 1/220~240/50 1/220~240/50
+Performance Air ﬂow（H/M/L） m3/h 2350/1980/1800 2350/1980/1800
+External dimensions (W/D/H) mm 1650/680/230 1650/680/230
+Shipping dimensions (W/D/H) mm 1750/779/305 1750/779/305
+Net/Shipping weight kg 47/55 47/55
+Standard YR-HQS01 YR-HQS01
+Option
+Electrical Power supply Ph/V/Hz 3/380~415/50 3/380~415/50
+Performance Air ﬂow (H) m3/h 5500 7000
+External dimensions(W/D/H) mm 965/370/950 960/340/1250
+Shipping dimensions(W/D/H) mm 1023/471/1120 1095/410/1430
+Net/Shipping weight kg 85/97 95/105
+Compressor type Rotary Rotary
+Refrigerant type R-410a R410a
+Refrigerant liquid pipe mm 9.52 9.52
+Refrigerant gas pipe mm 19.05 19.05
+Max pipe length m 50 50
+Max drop between I.U.&O.U m 30 30
+Working  temp Normal (Min-Max) 10~53 -7~53
+Model
+Heating
+Performance
+Outdoor Unit
+Installation
+Cooling
+Performance
+Indoor Unit
+Installation
+Controller
+Duct
+C C
+HCFU-48HE03
+HCFU-48CE03
+HDU-48HE03
+HDU-48CE03
+--- END OF LCAC 2024.pdf ---
+
+--- START OF Gree final flyer 2025.pdf ---
+Source Euromonitor International Limited; Consumer Appliances 2025ed;
+Retail volume sales in units, 2024 data.
+
+When defrosting of indoor unit is completed, it enters into outdoor unit self-cleaning process. As for cooling only units, 
+the fan blows the wind reversely to remove the dust for self-cleaning.  As for heat pump units, if ambient temperature 
+is higher than the set temperature, the fan blows the wind reversely to remove the dust; if ambient temperature is 
+lower than the set temperature, the unit will carry out the self-cleaning by four steps: dust removal, condensation, 
+frosting and defrosting.
+FEATURES
+ 
+Condensate occurs Become frosted Defrost to
+remove dust
+Drain until the
+surface is dry
+Evaporator temp.
+remains at
+50-55°C for 10mins
+Condensation Frosting Defrosting Drying 50-55°C
+Sterilization
+Cooling and Heating Models 
+The fan blows the
+wind reversely to
+remove the dust
+for self-cleaning
+Outdoor fan blows
+wind reversely to
+eliminate some dust
+on the condenser.
+Condenser’s temperature
+is decreased for
+condensation, and
+water droplets and dust
+are combined together
+The condenser is
+cooled quickly, the dew
+will be frosted and then
+the dust is separated
+from the fins.
+Increase the
+temperature for
+defrosting; the 
+condensate water will
+take away the dust.
+Reverse Wind Dust removal Condensation Frosting Defrosting
+Five Steps for Self-Cleaning
+The World’s First
+G-Boost Inverter Compressor
+6493.9
+7115.1
+5765.2
+6601.4
+5283.5
+5966
+0
+1
+2
+3
+4 3.61
+3.9
+2.55 2.61
+2.4 2.5
+7500
+9.6%
+T1
+26K Ordinary AC 26K AIRY AC 26K Ordinary AC 26K AIRY AC
+T3 48°C T1 T3 48°C
+14.5% 12.9% 8% 2.4% 4.1%
+7000
+6500
+6000
+5500
+5000
+4500
+4000
+Efficient and Energy Saving 
+Well equipped with G-Boost inverter compressor and single-
+stage enthalpy increasing technology, provides with you a
+powerful and stable cooling capability.  
+Stable Cooling Even at High Temperature 
+of 68°C  
+IDU Self-Cleaning
+ODU Self-Cleaning
+After cleaning
+Before cleaning
+Air Supply Temperature Down to 8°C
+Less Heat for More Pleasure
+Even under T3 working condition (fan is at low speed), the air outlet temperature of the indoor unit can be as low as 
+8°C, bringing the ultimate cooling pleasure to you.
+It is a technical breakthrough of the inverter compressor. Compared with the conventional compressor, the single unit 
+capacity is increased by 9.6%~14.5% and the energy efficiency is increased by 2.4%~8%.  
+It is annoying that the evaporator is very easy to accumulate dust and bacteria. While Gree evaporator Self Clean 
+Technology adopts five steps of “condensation, frosting, defrosting, drying and 50-55°C sterilization” to keep the 
+evaporator clean for fresh air supply.
+8°C
+
+Coronavirus Virus Rotavirus
+Sterilization 
+Rate 
+Up to
+93% 
+Bacillus Coccus Molds
+Colasma Air Purification Technology 
+The cold plasma device generates positive and negative ions to kill the bacteria and then decompose them into water, 
+making fresh air for you
+Sterilize and Purify The Air
+As one of the effective ways to deal with indoor air pollution, Colasma can effectively remove bacteria and kill viruses, 
+such as coronavirus, influenza virus, rotavirus, bacillus, coccus and molds.
+According to the tests carried out by an authoritative testing institution, ion release exceeds 300X104n/cm 3 and the 
+removal rate of air floating microorganisms is more than 93% in one hour./.null
+Remove Odor and Inhibit Static Electricity
+Because the number of negative ions is greater than that of positive ions, the excess negative ions floating in the air 
+may additionally remove unpleasant odors inevitable in daily life, such as smell of cigarette and smell of toilet. 
+Besides, it can reduce static electricity so that pollen and dust is not easy to attach to curtains and clothing.
+FEATURES
+ 
+Generate Positive
+& Negative ions 
+Surround
+Viruses
+Kill
+Viruses
+Decompose them
+into water
+Smell of Cigarette Smell of Toilet Reduce Static Electricity
+Function Setting Instruction
+Remote controller with “      ” button
+Turn ON Colasma function: Press “       ” button 
+Turn OFF Colasma function: Press“       ”button again or turn OFF the unit 
+The release of cooling capacity can be reasonably controlled by selecting appropriate electric power according to the 
+using environment. While enjoying the pleasure brought by air conditioning, it can reduce consumption, save energy, 
+and reduce unnecessary waste of resources.
+Power Gear Control
+It is a perfect AC that provides not only comfortable cooling but also reliable operation and power saving function. It 
+has been upgraded with a new function of energy control which is suitable for places with power limitation, power 
+shortage, etc. While reducing power consumption, AC can still operate reliably and stably under different power input.
+This is an AC designed with 3 selections of power modes for reducing energy consumption.
+3 Power Modes to choose
+Blank
+No SettingPP
+Few people and activity
+ʢBEDROOMʣ
+ɹ
+Mode 2
+Not many people and activities
+ʢOFFICEʣ
+Mode 1
+Many people and activities
+(CLASSROOM)
+Full Energy UsageMuch Less Energy UsageLess Energy Usage
+Normal
+ᶅElectricity Power Limitation
+ᶇPower Saving
+ᶄ Insufficient Circuit
+   Breaker Capacity
+ᶆPower Shortage
+ᶃPeak Electricity
+Demand
+Suitable for the following requirements
+C
+COLASMA
+
+FEATURES
+Destroys up to 90% Bacteria keeps
+air fresh & clean
+Unit could operate in Low Voltage Startup, which
+is suitable for unstable power supply areas.
+Colasma
+Noise lowers to 19dBA, making you feel like 
+staying on the Moon.
+19 dB
+X-FAN
+How Inverter Saves Energy
+FEATURES
+ 
+AIRY INVERTER
+Available in Elegant Silver & White Brushed Finish
+ 
+24h
+Daily Timer
+Wi -Fi Enabled
+  
+Sleep Modes
+Power Gear
+Control
+Eco-Friendly
+R410A Refrigerant
+Rapid Defrosting
+Technology
+Auto Restart
+Big Outdoor
+Stable Cooling
+4 Way Airflow
+Indoor/Outdoor
+Self-cleaning
+ Independant Smart 
+Dehumidification
+Quiet Operation
+Turbo Mode
+i-Feel
+10h
+Continue
+Heating 10 hrs
+Adjustable Display
+Light & Buzzer
+Self-Diagnosis
+Maintain +8ºC
+SEER 12.45
+Mentioned SEER
+is for 18K only
+ Air Supply
+15.5m
+ Ultra-Wide Voltage
+Operation
+7 Fan Speed
+Surfing Louver
+All-round cool
+Chill Swipe
+No chance for Chill
+AIRY INVERTER
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+4600/3700/1000
+15695/12600/3412
+1390/974/300
+Cooling
+4000/3360/1100
+13648/11500/3753
+1550/861/350
+GS-12 AITH23S-T3
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+5800/5280/1500
+19790/18000/5118
+2400/1500/350
+6600/5600/1400
+22519/19107/4777
+2400/1600/300
+GS-18 AITH23S-T3
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+9200/7920/2250
+31400/27000/7680
+3300/2330/710
+10200/8400/1750
+34800/28660/5970
+4000/2500/420
+GS-26AITH23S-T3
+*(High/Standard/Low)
+AITH23S-T3
+*(High/Standard/Low)
+AITH23W-T3
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+4600/3700/1000
+15695/12600/3412
+1390/974/300
+Cooling
+4000/3360/1100
+13648/11500/3753
+1550/861/350
+GS-12 AITH23W-T3
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+5800/5280/1500
+19790/18000/5118
+2400/1500/350
+6600/5600/1400
+22519/19107/4777
+2400/1600/300
+GS-18 AITH23W-T3
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+9200/7920/2250
+31400/27000/7680
+3300/2330/710
+10200/8400/1750
+34800/28660/5970
+4000/2500/420
+GS-26 AITH23W-T3
+A+ Class 
+Energy Eﬃciency
+A
+B
+C
+D
+E
+F
+G
+A+
+Air Conditioner in Pakistan 
+*Mentioned SEER is for 18K only
+SEER 12.45
+• Elegant Silver Brushed Finish
+• G-Boost Inverter Compressor - Stable Cooling even at High Temperature 68°C 
+• Indoor/ Outdoor Unit Self Cleaning
+• Power Gear Control
+• Rapid Defrosting Technology
+• Independent Smart Dehumidification
+• Adjustable Heating Mode (Temperature Adjustment 8° – 30°C in Heating Mode)
+• Ultra Wide Voltage Operation
+• Low Operation Noise
+• Adjustable Display Light & Buzzer
+• 3 Sleep Modes
+• Fully Closed Design
+• Super Large Air Supply Angle
+• Upto 15.5m Air Supply Distance 
+• 4-Way Airflow
+• Surfing Louvers
+• Continuous Heating for 10hr
+• Big Indoor & Outdoor
+• Fireproof PCB
+• i-Feel 
+• Fast Cooling
+• Turbo Mode
+• Timer
+•  Auto Restart
+• Child Lock
+• R410a Refrigerant 
+• Wi-Fi Enabled
+*Mentioned SEER is for 18K only
+SEER 12.45
+A+ Class 
+Energy Eﬃciency
+A
+B
+C
+D
+E
+F
+G
+A+
+Air Conditioner in Pakistan 
+• Elegant White Brushed Finish
+• G-Boost Inverter Compressor - Stable Cooling even at High Temperature 68°C 
+• Indoor/ Outdoor Unit Self Cleaning
+• Power Gear Control
+• Rapid Defrosting Technology
+• Independent Smart Dehumidification
+• Adjustable Heating Mode (Temperature Adjustment 8° – 30°C in Heating Mode)
+• Ultra Wide Voltage Operation
+• Low Operation Noise
+• Adjustable Display Light & Buzzer
+• 3 Sleep Modes
+• Fully Closed Design
+• Super Large Air Supply Angle
+• Upto 15.5m Air Supply Distance 
+• 4-Way Airflow
+• Surfing Louvers
+• Continuous Heating for 10hr
+• Big Indoor & Outdoor
+• Fireproof PCB
+• i-Feel 
+• Fast Cooling
+• Turbo Mode
+• Timer
+•  Auto Restart
+• Child Lock
+• R410a Refrigerant 
+• Wi-Fi Enabled
+• Elegant Champagne Finish 
+• Curved Elegant Design 
+• 4-Way Airflow 
+• Big Indoor (1 Meter) & Outdoor 
+• European Compliant Heat & Cool AC 
+• Latest Powerful G-10 Inverter
+• Energy Efficient Class A+
+   (Up to 60% Electricity Saving) 
+• Low Voltage Startup
+• Ultra Low Frequency Torque Control 
+• State of the Art High Speed DSP Chip
+• Precise Temperature Control
+• Faster Cooling & Heating
+• Hidden LED Display
+• Colasma
+• Fire Proof PCB
+• Intelligent Defrost
+• i-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Up to 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• X-Fan
+• Wi-Fi Enabled
+*(High/Standard/Low)
+• Elegant White Finish 
+• Curved Elegant Design 
+• 4-Way Airflow  
+• Big Indoor (1 Meter) & Outdoor 
+• European Compliant Heat & Cool AC 
+• Latest Powerful G-10 Inverter 
+• Energy Efficient Class A+
+   (Up to 60% Electricity Saving) 
+• Low Voltage Startup 
+• Ultra Low Frequency Torque Control 
+• State of the Art High Speed DSP Chip
+• Precise Temperature Control
+• Faster Cooling & Heating
+• Hidden LED Display
+• Colasma
+• Fire Proof PCB
+• Intelligent Defrost
+• i-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Up to 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• X-Fan
+• Wi-Fi Enabled
+• Elegant Grey Finish  
+• Curved Elegant Design 
+• Wi-Fi Enabled 
+• 4-Way Airflow 
+• Big Indoor (1 Meter) 
+• European Compliant Heat & Cool AC 
+• Latest Powerful G-10 Inverter 
+• Energy Efficient Class A+
+   (Up to 60% Electricity Saving) 
+• Low Voltage Startup
+• Ultra Low Frequency Torque Control
+• State of the Art High Speed DSP Chip
+• Precise Temperature Control
+• Faster Cooling & Heating
+• Hidden LED Display
+• Colasma
+• Fire Proof PCB
+• Intelligent Defrost
+• i-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Up to 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• X-Fan
+Colasma
+GS-12FITH3W
+GS-24FITH3W
+GS-18FITH3W
+*Mentioned SEER is for 18K only
+*(High/Standard/Low)
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+Heating
+4400/3517/700
+15013/12000/2388
+1600/1005/300
+Cooling
+4000/3517/300
+13648/12000/1024
+1500/1089/220
+GS-12PITH21 B-T3
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+5800/5275/1250
+19790/18000/4265
+2200/1530/350
+6600/5700/1400
+22519/19448/4777
+2200/1560/380
+GS-18PITH21 B-T3
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+7900/7034/1600
+26950/24000/5460
+2700/2150/460
+8000/7200/1600
+27300/24600/5500
+2900/2000/400
+GS-24PITH21 B-T3
+PITH21B-T3
+• Elegant Black Finish 
+• Heat & Cool AC
+• Latest Powerful G-10 Inverter 
+• WiFi Enabled
+• Power Gear Control
+• Precise Temperature Control
+• State of the Art DSP Chip
+• Fireproof PCB
+• Power Factor Correction Technology upto 99%
+• Colasma
+• Intelligent Defrost
+• Low Noise Operation
+• Energy Efficiency Class A+ (Upto 60% energy Saving)
+• Low Voltage Startup
+• Seamless Design with Double Air Deflector
+• 3 Sleep Modes
+• i-Feel
+• Self-Clean
+• 4-Way Airflow
+• Dehumidify
+• Single Panel Easy Clean Filter
+• Health Filters
+• R410a Refrigerant
+• Seven Fan Speed
+• Turbo Mode
+• Timer
+• Auto Restart
+• Child lock
+Colasma
+*Mentioned SEER is for 18K only
+SEER 12.8
+• Elegant Champagne Finish 
+• Curved Elegant Design 
+• 4-Way Airflow
+• Big Indoor (1 Meter) 
+• European Compliant Heat & Cool AC 
+• Latest Powerful G-10 Inverter 
+• Energy Efficient Class A+
+   (Up to 60% Electricity Saving) 
+• Low Voltage Startup
+• Ultra Low Frequency Torque Control
+• State-of-the-art High Speed DSP Chip
+• Precise Temperature Control
+• Faster Cooling & Heating
+• Hidden LED Display
+• Colasma
+• Fire Proof PCB
+• Intelligent Defrost
+• i-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Up to 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• X-Fan
+FITH6C
+6447/5275/1156
+22000/17998/3947
+2200/1643/400
+6643/5850/1028
+22667/19960/3507
+2350/1620/370
+GS-18FITH6C
+8200/6700/2400
+27978/24000/11600
+3700/2046/400
+8500/7300/2000
+29000/24900/6820
+3800/1945/450
+GS-24FITH6C
+Function
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+4200/3800/700
+14330/12966/2388
+1250/1050/220
+Cooling
+4000/3500/300
+13648/11942/1024
+1250/1090/190
+GS-12FITH6C
+• Elegant Silver Finish 
+• Curved Elegant Design 
+• 4-Way Airflow 
+• Big Indoor (1 Meter) 
+• European Compliant Heat & Cool AC 
+• Latest Powerful G-10 Inverter 
+• Energy Efficient Class A+
+   (Up to 60% Electricity Saving) 
+• Low Voltage Startup
+• Ultra Low Frequency Torque Control
+• State of the Art High Speed DSP Chip
+• Precise Temperature Control
+• Faster Cooling & Heating
+• Hidden LED Display
+• Colasma
+• Fire Proof PCB
+• Intelligent Defrost
+• i-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Up to 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• X-Fan
+FITH6S
+6447/5275/1156
+22000/17998/3947
+2200/1643/400
+6643/5850/1028
+22667/19960/3507
+2350/1620/370
+GS-18FITH6S
+8200/6700/2400
+27978/24000/11600
+3700/2046/400
+8500/7300/2000
+29000/24900/6820
+3800/1945/450
+GS-24FITH6S
+Function
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+4200/3800/700
+14330/12966/2388
+1250/1050/220
+Cooling
+4000/3500/300
+13648/11942/1024
+1250/1090/190
+GS-12FITH6S
+• Elegant Glossy Silver Finish 
+• Seamless Design with Double Air Deflector  
+• 4-Way Airflow 
+• Self-Clean
+• Seven Fan Speed 
+• Single Panel Easy Clean Filter 
+• Health Filters 
+• European Complaint Heat & Cool AC 
+• Low Noise Operation 
+• Latest Powerful G-10 Inverter 
+• Energy Efficiency Class A+
+   (Upto 60% Energy Saving)
+• Low Voltage Startup
+• Ultra Low Frequency Torque Control
+• State of the Art DSP Chip
+• Precise Temperature Control
+• i-Feel
+• Colasma
+• Hidden LED Display
+• Fire Proof PCB
+• Intelligent Defrost
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Upto 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+*(High/Standard/Low)
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+Heating
+4400/3517/700
+15013/12000/2388
+1600/1005/300
+Cooling
+4000/3517/300
+13648/12000/1024
+1500/1089/220
+GS-12PITH21 W-T3
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+5800/5275/1250
+19790/18000/4265
+2200/1530/350
+6600/5700/1400
+22519/19448/4777
+2200/1560/380
+GS-18PITH21 W-T3
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+7900/7034/1600
+26950/24000/5460
+2700/2150/460
+8000/7200/1600
+27300/24600/5500
+2900/2000/400
+GS-24PITH21 W-T3
+PITH21W-T3
+• Elegant White Finish 
+• Heat & Cool AC
+• Latest Powerful G-10 Inverter 
+• WiFi Enabled
+• Power Gear Control
+• Precise Temperature Control
+• State of the Art DSP Chip
+• Fireproof PCB
+• Power Factor Correction Technology upto 99%
+• Colasma
+• Intelligent Defrost
+• Low Noise Operation
+• Energy Efficiency Class A+ (Upto 60% energy Saving)
+• Low Voltage Startup
+• Seamless Design with Double Air Deflector 
+• 3 Sleep Modes
+• i-Feel
+• Self-Clean
+• 4-Way Airflow
+• Dehumidify
+• Single Panel Easy Clean Filter
+• Health Filters
+• R410a Refrigerant
+• Seven Fan Speed
+• Turbo Mode
+• Timer
+• Auto Restart
+• Child lock
+*(High/Standard/Low)*(High/Standard/Low)
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+Heating
+4300/3800/700
+14672/12965/2388
+1650/1000/300
+Cooling
+4000/3600/300
+13648/12283/1024
+1600/1162/220
+GS-12PITH11G
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+5700/5275/1200
+19448/18000/4094
+1900/1600/320
+5700/5300/1200
+19448/18083/4094
+1900/1450/350
+GS-18PITH11G
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+8100/7200/2260
+27600/24500/7700
+2800/2110/490
+8100/7300/1750
+27600/24900/5970
+3100/2020/425
+GS-24PITH11G
+PITH11G
+• Elegant Glossy Grey Finish 
+• Seamless Design with Double Air Deflector  
+• 4-Way Airflow 
+• Self-Clean
+• Seven Fan Speed 
+• Single Panel Easy Clean Filter 
+• Health Filters 
+• European Complaint Heat & Cool AC 
+• Low Noise Operation 
+• Latest Powerful G-10 Inverter 
+• Energy Efficiency Class A+
+   (Upto 60% Energy Saving)
+• Low Voltage Startup 
+• Ultra Low Frequency Torque Control
+• State of the Art DSP Chip
+• Precise Temperature Control
+• i-Feel
+• Colasma
+• Hidden LED Display
+• Fire Proof PCB
+• Intelligent Defrost
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Upto 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+ *Mentioned SEER is for 18K only
+SEER 6.10
+*Mentioned SEER is for 18K only
+SEER 6.10
+*Mentioned SEER is for 18K only
+SEER 12.8
+*Mentioned SEER is for 18K only
+SEER 6.10
+• Elegant White Finish 
+• Seamless Design with Double Air Deflector 
+• 4-Way Airflow
+• Self-Clean 
+• Seven Fan Speed 
+• Single Panel Easy Clean Filter 
+• Health Filters 
+• European Complaint Heat & Cool AC 
+• Low Noise Operation 
+• Latest Powerful G-10 Inverter 
+• Energy Efficiency Class A+ (Upto 60% Energy Saving)
+• Power Factor Correction Technology Upto 99%
+• Low Voltage Startup 
+• Ultra Low Frequency Torque Control
+• State of the Art DSP Chip
+• Precise Temperature Control
+• i-Feel
+• Colasma
+• Hidden LED Display
+• Fire Proof PCB
+• Ceiling Cooling & Floor Heating System
+• Intelligent Defrost
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• Hidden LED Display
+• Colasma
+• Intelligent Defrost
+• i-Feel
+• Low Noise Operation
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Child Lock
+• Elegant White Finish 
+• Cool Only 
+• Seamless Design with Double Air Deflector
+• 4-Way Airflow  
+• Power Factor Correction Technology Upto 99% 
+• Seven Fan Speed 
+• Single Panel Easy Clean Filter 
+• Health Filters
+• Fire Proof PCB
+• Auto Restart
+• Energy Efficiency Class A+ (Upto 60% Energy Saving)
+• Low Voltage Startup
+• Ultra Low Frequency Torque Control
+• State of the Art DSP Chip
+• Precise Temperature Control
+Cool Only
+• Elegant Glossy Silver Finish 
+• Seamless Design with Double Air Deflector
+• 4-Way Airflow 
+• Self-Clean
+• Seven Fan Speed 
+• Single Panel Easy Clean Filter 
+• Health Filters 
+• Power Factor Correction Technology Upto 99%
+• European Complaint Heat & Cool AC 
+• Ceiling Cooling & Floor Heating System
+• Low Noise Operation 
+• Latest Powerful G-10 Inverter
+• Energy Efficiency Class A+ (Upto 60% Energy Saving)
+• Low Voltage Startup
+• Ultra Low Frequency Torque Control
+• State of the Art DSP Chip
+• Precise Temperature Control
+• i-Feel
+• Self-Clean
+• Colasma
+• Hidden LED Display
+• Fire Proof PCB
+• Intelligent Defrost
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+*(High/Standard/Low)
+*(High/Standard/Low)
+Cool Only
+•  Elegant White Glossy Finish
+•  Efficient and Quiet Design
+•  Powerful and Tropical Compressor
+•  Precise Temperature Control
+•  State of the Art DSP Chip
+•  Multi Fan Speeds
+•  2-Way Airflow 
+•  X-Fan
+•  Dehumidify
+•  R410a Refrigerant
+•  Gold Fin Condenser
+•  Health Filters
+•  LED Display 
+•  Memory Function
+•  Self Diagnosis
+•  Washable Panel
+•  Timer 
+•  Turbo Mode
+•  Sleep Mode
+•  Low Voltage Startup
+CM11
+BTU Capacity
+Output Capacity (W)
+GS-12CM11
+12000
+3500
+BTU Capacity
+Output Capacity (W)
+GS-18CM11
+18000
+5300
+BTU Capacity
+Output Capacity (W)
+GS-24CM11
+24000
+7034
+CHARMO FIXED SPEED 
+*Mentioned SEER is for 18K only
+SEER 5.00
+*Mentioned SEER is for 18K only
+SEER 6.10
+Cool Only
+CHARMO FIXED SPEED
+
+Value Time
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+8100/7330/1800
+27637/25010/6142
+3250/2100/350
+Cooling
+7740/7034/1500
+26409/24000/5118
+3250/2100/300
+GF-24VTIH
+*(High/Standard/Low)
+FLOOR STANDING
+• Powerful Compressor
+• Auto Restart
+• Low Voltage Startup
+• 4-Way Airflow
+• Multi Fan
+• Comfortable Sleeping Mode
+• Turbo Cooling
+• Automatic Operation
+• Hidden LED Display
+• Self Diagnosis
+• ON/OFF Timer
+• Dehumidify
+• Wi-Fi Enabled
+• Intelligent Defrosting
+Function
+BTU/H Capacity 
+Output Capacity (W)
+Cooling
+48000
+14068
+GF-48TF
+Cooling
+24566
+7200
+GF-24TF
+• Elegant Champagne Finish
+• Vertical Cross Flow Fan with Even Air Supply
+• Wi-Fi Enabled
+• Sensitive Touch Buttons
+• Even Thermal Field with Heating from Bottom to Top
+• State of the Art DSP Chip
+• Latest Powerful G-10 Inverter
+• Ultra Low Frequency Technology
+• Intelligent Defrosting Monitor
+• Wide Angle Air Swing
+• Fireproof Design
+• U Shape Evaporator
+• Artistic Column Appearance
+• Diamond Style Base
+• High Density Antibacterial Filter
+• Automatic Drying Operation
+*(High/Standard/Low)
+i-Shine 
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+9500/8800/1900
+32414/30025/6483
+3800/2750/350
+Cooling
+8700/7100/1200
+29684/24225/4094
+3700/2220/190
+GF-24ISH
+• Modern & Minimalist Style
+• Intelligent Open-Close Panel
+• Wi-Fi Enabled
+• State of the Art DSP Chip
+• Power Gear Control
+• Self-Clean
+• Colasma
+• Independent Dehumidification
+• Fast Cooling & Heating
+• Anti Cold Wind Function
+• 4-Way Airflow
+• 5 Fan Speeds
+• Sensitive Touch Buttons
+• Fireproof Design
+• Floor Heating & Ceiling Cooling
+• Wide Voltage Range
+• R32 Friendly Refrigerant
+• Refrigerant Lack protection design 
+•  Intelligent Defrosting
+•  Child Lock
+• Timer
+*(High/Standard/Low)
+T Fresh
+Functions 
+Output Capacity (W) (H/S/L*) 
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*) 
+Heating
+7400/7330/1850
+25249/25010/6312
+2400/2360/550
+Cooling 
+8200/7034/1500 
+27978/24000/5118 
+3000/2260/530 
+GF-24TFIH
+Functions 
+Output Capacity (W) (H/S/L*) 
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*) 
+Heating
+11700/10850/1950
+39920/37000/6653
+3700/2950/340
+Cooling 
+11600/10550/2050 
+39579/36000/6995 
+4000/3350/360 
+GF-36TFIH
+Functions 
+Output Capacity (W) (H/S/L*)T1 
+Output Capacity (W) (H/S/L*)T3 
+BTU/H Capacity (H/S/L*)T1 
+BTU/H Capacity (H/S/L*)T3 
+Power Input (W) (H/S/L*)T1 
+Power Input (W) (H/S/L*)T3 
+Heating
+16700/14500/3650
+56980/49474/12454
+5200/4650/750
+Cooling 
+14300/13500/1580
+14300/10000/1580 
+48792/46062/5391
+48792/34120/5391 
+5180/4800/800 
+5180/4100/800
+GF-48TFIH
+• Powerful Compressor
+• Auto Restart
+• Low Voltage Startup
+• 4-Way Airflow
+• Multi Fan
+• Comfortable Sleeping Mode
+• Turbo Cooling
+• Automatic Operation
+• LED Display
+• Self Diagnosis
+• ON/OFF Timer
+• Intelligent Defrosting
+• Dehumidify
+• Wi-Fi Enabled
+• Touchable Panel
+• Child Lock
+• Intelligent Preheating
+•  R410a Refrigerant
+
+--- END OF Gree final flyer 2025.pdf ---
+
+--- START OF Gree AC Product Range Flyer.pdf ---
+Gree Product Range Catalogue
+
+• Elegant Champagne Finish 
+• Curved Elegant Design 
+• 4-way Air Flow 
+• Big Indoor (1 Meter) & Outdoor 
+• European Compliant Heat & Cool AC 
+• Latest Powerful Generation-10 Inverter 
+• Energy Efficient Class A+
+   (Up to 60% Electricity Saving) 
+• Low Voltage Startup – 150V 
+• Ultra Low Frequency Torque Control 
+• State-of-the-art High Speed DSP Chip
+• Precise Temperature Control
+• Faster Cooling & Heating
+• Hidden Led Display
+• Cold Plasma Generator
+• Fire Proof PCB
+• Intelligent Defrost
+• I-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Up to 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• X-Fan
+• Wi-Fi
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+5130/3670/600
+17504/12522/2047
+1650/989/220
+Cooling
+3960/3500/600
+13512/11942/2047
+1550/1084/220
+GS-12FITH1C
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+6600/5130/1260
+22519/17504/4299
+2450/1500/380
+6800/5275/1120
+23202/17998/3821
+2600/1410/350
+GS-18FITH1C
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+8200/6700/2400 
+27978/22000/11600 
+3700/1876/400 
+8500/7300/2000
+29000/24900/6820
+3800/1945/450
+GS-24FITH1C
+*(High/Standard/Low)
+FITH1C
+• Elegant White Finish 
+• Curved Elegant Design 
+• 4-way Air Flow 
+• Big Indoor (1 Meter) & Outdoor 
+• European Compliant Heat & Cool AC 
+• Latest Powerful Generation-10 Inverter 
+• Energy Efficient Class A+
+   (Up to 60% Electricity Saving) 
+• Low Voltage Startup – 150V 
+• Ultra Low Frequency Torque Control 
+• State-of-the-art High Speed DSP Chip
+• Precise Temperature Control
+• Faster Cooling & Heating
+• Hidden Led Display
+• Cold Plasma Generator
+• Fire Proof PCB
+• Intelligent Defrost
+• I-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Up to 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• X-Fan
+• Wi-Fi
+*(High/Standard/Low)
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+5130/3670/600
+17504/12522/2047
+1650/989/220
+Cooling
+3960/3500/600
+13512/11942/2047
+1550/1060/220
+GS-12 FITH3W
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+6600/5130/1260
+22519/17504/4299
+2450/1500/380
+6800/5275/1120
+23202/17998/3821
+2600/1410/350
+GS-18 FITH3W
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+8200/6700/2000
+27978/22000/11600
+3700/1876/400
+8500/7300/2000
+29000/24900/6820
+3800/1945/450
+GS-24 FITH3W
+FITH 3W
+A+ Class 
+Energy Eﬃciency
+A
+B
+C
+D
+E
+F
+G
+A+
+Air Conditioner in Pakistan 
+*Mentioned SEER is for 18K only
+SEER 6.80
+Cold Plasma
+Generator
+Fairy Inverter
+*(High/Standard/Low)
+• Elegant Silver Finish 
+• Curved Elegant Design 
+• 4-way Air Flow 
+• Big Indoor (1 Meter) 
+• European Compliant Heat & Cool AC 
+• Latest Powerful Generation-10 Inverter 
+• Energy Efficient Class A+
+   (Up to 60% Electricity Saving) 
+• Low Voltage Startup – 150V 
+• Ultra Low Frequency Torque Control
+• State-of-the-art High Speed DSP Chip
+• Precise Temperature Control
+• Faster Cooling & Heating
+• Hidden Led Display
+• Cold Plasma Generator
+• Fire Proof PCB
+• Intelligent Defrost
+• I-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Up to 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• X-Fan
+FITH6S
+6447/5275/1156
+22000/17998/3947
+2200/1643/400
+6643/5850/1028
+22667/19960/3507
+2350/1620/370
+GS-18 FITH6S
+8200/6700/2400
+27978/24000/11600
+3700/2046/400
+8500/7300/2000
+29000/24900/6820
+3800/1945/450
+GS-24 FITH6S
+Function
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+4200/3800/700
+1330/12966/2388
+1250/1050/220
+Cooling
+4000/3500/300
+13648/11942/1024
+1250/1090/190
+GS-12 FITH6S
+CLIMATE
+TYPE
+T3
+GREE Product Range Catalogue
+*(High/Standard/Low)
+• Elegant White Finish 
+• Seamless design with double air deflector 
+• 4-way Air Flow 
+• Auto Clean Function 
+• Seven Fan Speed 
+• Single Panel Easy Clean Filter 
+• Health Filters 
+• European Complaint Heat & Cool AC 
+• Low Noise Operation 
+• Latest Powerful G-10 AC
+• Energy Efficiency Class A+
+   (Upto 60% Energy Saving)
+• Low Voltage Startup – 150V
+• Ultra Low Frequency Torque Control
+• State-of-the-art DSP Chip
+• Precise Temperature Control
+• Hidden LED Display
+• Cold Plasma Generator
+• Fire Proof PCB
+• Ceiling Cooling & Floor Heating System
+• Intelligent Defrost
+• I-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Upto 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+Heating
+4300/3800/700
+14672/12965/2388
+1650/1000/300
+Cooling
+4000/3600/300
+13648/12283/1024
+1600/1162/220
+GS-12PITH11W
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+5700/5275/1200
+19448/18000/4094
+1900/1600/320
+5700/5300/1200
+19448/18083/4094
+1900/1450/350
+GS-18PITH11W
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+8100/7200/2260
+27600/24500/7700
+2800/2110/490
+8100/7300/1750
+27600/24900/5970
+3100/2020/425
+GS-24PITH11W
+PITH11W
+ PITH11S
+• Elegant Glossy Silver Finish 
+• Seamless design with double air deflector 
+• 4-way Air Flow 
+• Auto Clean Function 
+• Seven Fan Speed 
+• Single Panel Easy Clean Filter 
+• Health Filters 
+• European Complaint Heat & Cool AC 
+• Low Noise Operation 
+• Latest Powerful G-10 AC
+• Energy Efficiency Class A+
+   (Upto 60% Energy Saving)
+• Low Voltage Startup – 150V
+• Ultra Low Frequency Torque Control
+• State-of-the-art DSP Chip
+• Precise Temperature Control
+• Hidden LED Display
+• Cold Plasma Generator
+• Fire Proof PCB
+• Ceiling Cooling & Floor Heating System
+• Intelligent Defrost
+• I-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Upto 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+Heating
+4300/3800/700
+14672/12965/2388
+1650/1000/300
+Cooling
+4000/3600/300
+13648/12283/1024
+1600/1162/220
+GS-12PITH11S
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+5700/5275/1200
+19448/18000/4094
+1900/1600/320
+5700/5300/1200
+19448/18083/4094
+1900/1450/350
+GS-18PITH11S
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+8100/7200/2260
+27600/24500/7700
+2800/2110/490
+8100/7300/1750
+27600/24900/5970
+3100/2020/425
+GS-24PITH11S
+*(High/Standard/Low)
+A+ Class 
+Energy Eﬃciency
+A
+B
+C
+D
+E
+F
+G
+A+
+Air Conditioner in Pakistan 
+*Mentioned SEER is for 18K only
+SEER 6.80
+Cold Plasma
+Generator
+Pular Inverter• Elegant Champagne Finish 
+• Curved Elegant Design 
+• 4-way Air Flow 
+• Big Indoor (1 Meter) 
+• European Compliant Heat & Cool AC 
+• Latest Powerful Generation-10 Inverter 
+• Energy Efficient Class A+
+   (Up to 60% Electricity Saving) 
+• Low Voltage Startup – 150V 
+• Ultra Low Frequency Torque Control
+• State-of-the-art High Speed DSP Chip
+• Precise Temperature Control
+• Faster Cooling & Heating
+• Hidden Led Display
+• Cold Plasma Generator
+• Fire Proof PCB
+• Intelligent Defrost
+• I-Feel
+• Ceiling Cooling & Floor Heating System
+• Power Factor Correction Technology Up to 99%
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Auto Restart
+• Child Lock
+• X-Fan
+FITH6C
+6447/5275/1156
+22000/17998/3947
+2200/1643/400
+6643/5850/1028
+22667/19960/3507
+2350/1620/370
+GS-18 FITH6C
+8200/6700/2400
+27978/24000/11600
+3700/2046/400
+8500/7300/2000
+29000/24900/6820
+3800/1945/450
+GS-24 FITH6C
+Function
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Output Capacity (W) Capacity(H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+4200/3800/700
+1330/12966/2388
+1250/1050/220
+Cooling
+4000/3500/300
+13648/11942/1024
+1250/1090/190
+GS-12 FITH6C
+*(High/Standard/Low)
+CLIMATE
+TYPE
+T3
+GREE Product Range Catalogue
+*(High/Standard/Low)
+• Elegant White Finish 
+• Seamless design with double air deflector
+• 4-way Air Flow 
+• Fire Proof PCB 
+• Power Factor Correction Technology Upto 99% 
+• Seven Fan Speed 
+• Single Panel Easy Clean Filter 
+• Health Filters
+• Fire Proof PCB
+• Auto Restart
+• Energy Efficiency Class A+
+   (Upto 60% Energy Saving)
+• Low Voltage Startup – 150V
+• Ultra Low Frequency Torque Control
+• State-of-the-art DSP Chip
+• Precise Temperature Control
+• Hidden LED Display
+• Cold Plasma Generator 
+• Fire Proof PCB
+• Intelligent Defrost
+• I-Feel
+• Low Noise Operation
+• Turbo Mode
+• Sleep Mode
+• Timer
+• Child Lock
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+Cooling
+4000/3500/900
+13648/11942/3071
+1800/1090/300
+GS-12PIT10W
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+5600/5275/800
+19107/18000/2730
+1900/1600/260
+GS-18PIT10W
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L)
+8100/7034/2000
+27600/24000/6800
+2600/2060/500
+GS-24PIT10W
+PIT10W
+*Mentioned Seer is for 18K only
+SEER 5.00
+Cool Only
+T Fresh
+• Powerful Compressor
+• Auto Restart
+• Low Voltage Start up
+• 4 Way Airflow
+• Multi Fan
+• Comfortable Sleeping Mode
+• Turbo Cooling
+• Automatic Operation
+• Hidden LED Display
+• Self Diagnosis
+• On Off Timer
+• Dehumidify
+• Wi-Fi Enabled
+• Intelligent Defrosting
+Cool Only
+Function
+BTU/H Capacity 
+Compressor (W)
+Cooling
+48000
+14068
+GF-48TF
+Cooling
+24566
+7200
+GF-24TF
+A+ Class 
+Energy Eﬃciency
+A
+B
+C
+D
+E
+F
+G
+A+
+Air Conditioner in Pakistan 
+• Elegant Champagne Finish
+• Vertical Cross Flow Fan with Even Air Supply
+• Wi-Fi Enabled
+• Sensitive Touch Buttons
+• Even Thermal Field with Heating from Bottom to Top
+• State-of-the-Art Chip Module
+• Generation-10 Inverter
+• Ultra Low Frequency Technology
+• Intelligent Defrosting Monitor
+• Wide Angle Air Swing
+• Fireproof Design
+• U Shape Evaporator
+• Artistic Column Appearance
+• Diamond Style Base
+• High Density Antibacterial Filter
+• Automatic Drying Operation
+i-Shine 
+Function
+Output Capacity (W) (H/S/L*)
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*)
+Heating
+9500/8800/1900
+32414/30025/6483
+3800/2750/350
+Cooling
+8700/7100/1200
+29684/24225/4094
+3700/2220/190
+GF-24ISH
+*(High/Standard/Low)
+A+ Class 
+Energy Eﬃciency
+A
+B
+C
+D
+E
+F
+G
+A+
+Air Conditioner in Pakistan 
+CLIMATE
+TYPE
+T3
+Cool Only
+GREE Product Range Catalogue
+Cool Only
+• Elegant White Glossy Finish
+• Golden Fin Condenser
+• Powerful & Tropical Compressor
+• Magic Mirror
+• Multi Fan Speeds
+• Comfortable Sleeping Modes
+• Memory Function
+• Intelligent Defrosting
+• Self-Diagnosis
+• On Off Timer
+• Removable Washable Filter
+• Integrated Design
+• U-Type Inner Groove Copper Pipe
+• Efficient & Quiet Design
+• Turbo Cooling
+• Automatic Drying Operations
+• LED Display
+ LM6L
+Product Code
+BTU Capacity
+Compressor (W)
+GS-12LM 6L
+12000
+3150
+Product Code
+BTU Capacity
+Compressor (W)
+GS-18LM 6L
+18000
+4983
+Product Code
+BTU Capacity
+Compressor (W)
+GS-24LM 6L
+24000
+7034
+T Fresh
+• Powerful Compressor
+• Auto Restart
+• Low Voltage Start up
+• 4way Airflow
+• Multi Fan
+• Comfortable Sleeping Mode
+• Turbo Cooling
+• Automatic Operation
+• LED Display
+• Self Diagnosis
+• On Off Timer
+• Intelligent Defrosting
+• Dehumidify
+• Wi-Fi Enabled
+• Touchable Panel
+• Child Lock
+• Intelligent Preheating
+COLDNORMAL
+UNLOCK
+HOT
+• 3 Tap Operation 
+• Spacious Refrigerator Cabinet 
+• LED Indicators for Hot and Cold
+• Overheat Protection 
+• Super Slim Design 
+• Child Lock
+• Compressor Cooling
+• Quite Operation 
+• Energy Saving 
+• Eco Friendly 
+Features
+GW-JL500F
+GREE Product Range Catalogue
+*(High/Standard/Low)
+Functions 
+Output Capacity (W) (H/S/L*) 
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*) 
+Heating
+7400/7330/1850
+25249/25010/6312
+2400/2360/550
+Cooling 
+8200/7034/1500 
+27978/24000/5118 
+3000/2260/530 
+GF-24TFIH
+Functions 
+Output Capacity (W) (H/S/L*) 
+BTU/H Capacity (H/S/L*) 
+Power Input (W) (H/S/L*) 
+Heating
+11700/10850/1950
+39920/37000/6653
+3700/2950/340
+Cooling 
+11600/10550/2050 
+39579/36000/6995 
+4000/3350/360 
+GF-36TFIH
+Functions 
+Output Capacity (W) (H/S/L*)T1 
+Output Capacity (W) (H/S/L*)T3 
+BTU/H Capacity (H/S/L*)T1 
+BTU/H Capacity (H/S/L*)T3 
+Power Input (W) (H/S/L*)T1 
+Power Input (W) (H/S/L*)T3
+Heating
+16700/14500/3650
+56980/49474/12454
+5200/4650/750
+Cooling 
+14300/13500/1580
+14300/10000/1580 
+48792/46062/5391
+48792/34120/5391 
+5180/4800/800 
+5180/4100/800
+GF-48TFIH
+Far Infrared Heaters
+GEH-800B/G
+• 2 power modes with selection knob: 400w/800w
+• Health and environment friendly technology
+• Big throw covering more area
+• Effective heating by warming up surrounding air and objects
+• Suitable for outdoor heating as well
+• 430 stainless reflective plate, reflecting effect up to 99%
+• Maximum efficient output with least energy wastage
+• Corrosion resistant material
+• Auto power-off protection when tipping over
+• Plain quartz tube, cold and heat-proof
+• Decent in appearance with integrated
+   design, firm and durable
+• Compact size for convenient storage
+Available Colors:
+White Grey | White Blue
+A+ Class 
+Energy Eﬃciency
+A
+B
+C
+D
+E
+F
+G
+A+
+Air Conditioner in Pakistan 
+CLIMATE
+TYPE
+T3
+Cool Only
+Refrigerator Cabinet
+Cold Water Capacity 
+Hot Water Capacity 
+Cold Water Temp   
+Hot Water Temp 
+Cooling Power Input
+Heating Power Input
+Compressor Cooling
+Plastic Material
+Dimensions LxWxH
+ 20 Ltrs
+1.5 L/H
+4 L/H
+5-12 ºC
+85-95 ºC
+100 W
+420 W
+ Yes
+ABS
+310x330x1068
+SPECIFICATIONS
+For all customer queries and complaints Call: 042 - 111 111 397
+DWP GROUP - CE DIVISION
+Marketing Ofﬁce: 5 Zafar Ali Road, Gulberg V, Lahore. UAN: 111-184-184
+Web: www.dwphome.com.pk X  facebook.com/GREEPakistan
+Display Centers: 
+Lahore: Cavalry Ground Tel: 3668 2420-21 
+Sales Ofﬁces: Karachi: Tel: 3275 2966, 3273 4741, 3273 2987 Lahore: Tel: 3731 0052-53 Rawalpindi: Tel: 457 1295-96  
+Hyderabad: Tel: 272 9355 & 66 Gujranwala: Tel: 424 2944, 424 1944, 455 7630 Faisalabad: Tel: 853 1933 & 38 Sargodha:
+Tel: 376 7710-11 Multan: Tel: 454 4447, 454 5577 
+Corporate queries, email us: hamid.khan@dwp.com.pk / adnan.khan@dwp.com.pk
+--- END OF Gree AC Product Range Flyer.pdf ---
+
+--- START OF EcoStar AC New Lineup Flyer 2026.pdf ---
+DWP GROUP - CE DIVISION
+Marketing Ofﬁce: 5 Zafar Ali Road, Gulberg V, Lahore  UAN: 111-184-184 Fax: 3575 6289   Web: www.dwphome.com.pk
+M facebook.com/EcoStar  P instagram.com/ecostar_electronics      tiktok.com/@ecostarelectronics S linkedin.com/showcase/ecostar-pakistan/ 
+Digital Plaza Lahore: Cavalry Ground Tel: 3668 2420-21 
+Sales Ofﬁces: Karachi: Tel: 3275 2966, 3273 4741, 3273 2987 Lahore: Tel: 3585 6611-13 Rawalpindi: Tel: 457 1295-96 Multan: Tel: 442 4600 
+Hyderabad: Tel: 272 9355 & 66 Gujranwala: Tel: 424 2944, 424 1944, 455 7630 Faisalabad: Tel: 853 1933 & 38 Sargodha: Tel: 376 7710-11 
+Art Techniques
+EXTRAORDINARY!
+Extra fast. Extra cool. 
+EXTRAORDINARY!
+Extra fast. Extra cool. 
+ ��  � � وا�ا��
+ � �� � ������� � �  �� �� �
+                
+T3
+30
+�،T1  �� T3 �اے! 
+ ��
+ � �� � ������� � �  �� �� �
+                
+T3
+30
+�،T1  �� T3 �اے! 
+ario  Series
+ARIO  mAX  Series
+nOVO  mAX  Series
+nOVO   Series
+Environment
+Protecting Coating
+Superior Remote Control Design
+(Large LCD, IPX5 waterproof)
+Quick Cooling
+& Heating
+65 Hz
+Startup
+Upto 0.1ºC with
+Improved Sensing Accuracy
+Self-Diagnosis
+for Low Refrigerant
+Precise Ai
+Temperature
+Control
+Multi Health Filters
+(Vitamin C, Carbon Filter
+& Anti Formaldehyde)
+Gold Fin Evaporator
+& Condenser
+!
+Cleaning Reminder Level Gauge
+4D Airflow
+Environment
+Protecting Coating
+Superior Remote Control Design
+(Large LCD, IPX5 waterproof)
+Quick Cooling
+& Heating
+65 Hz
+Startup
+Upto 0.1ºC with
+Improved Sensing Accuracy
+Self-Diagnosis
+for Low Refrigerant
+Precise Ai
+Temperature
+Control
+Multi Health Filters
+(Vitamin C, Carbon Filter
+& Anti Formaldehyde)
+Gold Fin Evaporator
+& Condenser
+!
+Cleaning Reminder Level Gauge
+4D Airflow
+22
+Environment
+Protecting Coating
+Superior Remote Control Design
+(Large LCD, IPX5 waterproof)
+Quick Cooling
+& Heating
+65 Hz
+Startup
+Upto 0.1ºC with
+Improved Sensing Accuracy
+Self-Diagnosis
+for Low Refrigerant
+Precise Ai
+Temperature
+Control
+Multi Health Filters
+(Vitamin C, Carbon Filter
+& Anti Formaldehyde)
+Gold Fin Evaporator
+& Condenser
+!
+Cleaning Reminder Level Gauge
+4D Airflow
+Environment
+Protecting Coating
+Superior Remote Control Design
+(Large LCD, IPX5 waterproof)
+Quick Cooling
+& Heating
+65 Hz
+Startup
+Upto 0.1ºC with
+Improved Sensing Accuracy
+Self-Diagnosis
+for Low Refrigerant
+Precise Ai
+Temperature
+Control
+Multi Health Filters
+(Vitamin C, Carbon Filter
+& Anti Formaldehyde)
+Gold Fin Evaporator
+& Condenser
+!
+Cleaning Reminder Level Gauge
+4D Airflow
+22
+HEAT & COOL with USB Connectivity
+WiFi
+Ready
+5 Step Power Limit
+ HEAT & COOL with USB Connectivity
+WiFi
+Ready
+5 Step Power Limit
+- Intelligent Wi-Fi Function
+- Largest Indoor & Outdoor Unit
+- 5 Step Power Limit Remote
+- Superior Remote Control Design 
+  (Large LCD, IPX5 Waterproof)
+- Gold Fin Evaporator & Condenser
+- Environment Protecting Coating
+- Precise AI Temperature Control
+  Up to 0.1º with Improved Sensing Accuracy 
+- 65 Hz Startup – Quick Cooling & Heating
+- Self-Diagnosis for Low Refrigerant
+- Multi Health Filters
+- Aesthetic Design 
+- Pluggable PCB
+- 5th Gen. of Automatic Washing 
+- Cleaning Reminder
+- Intelligent PCB Control
+- 4D Airﬂow
+- PCB Cooling
+HEAT & COOL with USB Connectivity
+WiFi
+Ready
+5 Step Power Limit
+SoftWind
+Solar Compatible
+- Intelligent Wi-Fi Function
+- Largest Indoor & Outdoor Unit
+- 5 Step Power Limit Remote
+- Superior Remote Control Design 
+  (Large LCD, IPX5 Waterproof)
+- Gold Fin Evaporator & Condenser
+- Environment Protecting Coating
+- Precise AI Temperature Control
+  Up to 0.1º with Improved Sensing Accuracy 
+- 65 Hz Startup – Quick Cooling & Heating
+- Self-Diagnosis for Low Refrigerant
+- Multi Health Filters
+- Aesthetic Design 
+- Pluggable PCB
+- 5th Gen. of Automatic Washing 
+- Cleaning Reminder
+- Intelligent PCB Control
+- 4D Airﬂow
+- PCB Cooling
+HEAT & COOL with USB Connectivity
+WiFi
+Ready
+5 Step Power Limit
+SoftWind
+Solar Compatible
+- Intelligent Wi-Fi Function
+- Largest Indoor & Outdoor Unit
+- 5 Step Power Limit Remote
+- Superior Remote Control Design 
+  (Large LCD, IPX5 Waterproof)
+- Gold Fin Evaporator & Condenser
+- Environment Protecting Coating
+- Precise AI Temperature Control
+  Up to 0.1º with Improved Sensing Accuracy 
+- 65 Hz Startup – Quick Cooling & Heating
+- Self-Diagnosis for Low Refrigerant
+- Multi Health Filters
+- Aesthetic Design 
+- Pluggable PCB
+- 5th Gen. of Automatic Washing 
+- Cleaning Reminder
+- Intelligent PCB Control
+- 4D Airﬂow
+- PCB Cooling
+Solar Compatible
+- Intelligent Wi-Fi Function
+- Largest Indoor & Outdoor Unit
+- 5 Step Power Limit Remote
+- Superior Remote Control Design 
+  (Large LCD, IPX5 Waterproof)
+- Gold Fin Evaporator & Condenser
+- Environment Protecting Coating
+- Precise AI Temperature Control
+  Up to 0.1º with Improved Sensing Accuracy 
+- 65 Hz Startup – Quick Cooling & Heating
+- Self-Diagnosis for Low Refrigerant
+- Multi Health Filters
+- Aesthetic Design 
+- Pluggable PCB
+- 5th Gen. of Automatic Washing 
+- Cleaning Reminder
+- Intelligent PCB Control
+- 4D Airﬂow
+- PCB Cooling
+Solar Compatible
+HEAT & COOL with USB Connectivity
+WiFi
+Ready
+5 Step Power Limit Solar Compatible
+HEAT & COOL with USB Connectivity
+WiFi
+Ready
+5 Step Power Limit Solar Compatible
+- 65 Hz Startup – Quick Cooling & Heating
+- Low Voltage Operation 150-270V
+- Multi - Health Filters
+- Self-Diagnosis for Low Refrigerant
+- Superior Remote Control Design
+   (Large LCD, IPX5 Waterproof)
+- Precise Ai Temperature Control
+   Up to 0.1º with Improved Sensing Accuracy 
+DUKE  Series
+Gold Fin Evaporator
+& Condenser
+Environment
+Protecting Coating
+Self-Cleaning
+Evaporator4D Airflow
+Superior Remote Control Design
+(Large LCD, IPX5 waterproof)
+Prevents from Dust,
+Short Circuit & Rain
+Quick Cooling
+& Heating
+65 Hz
+Startup
+Upto 0.1ºC with
+Improved Sensing Accuracy
+Self-Diagnosis
+for Low Refrigerant
+Precise Ai
+Temperature
+Control
+Multi Health Filters
+(Vitamin C, Carbon Filter
+& Anti Formaldehyde)
+Labyrinth
+PCB
+& Outdoor
+Design
+Gold Fin Evaporator
+& Condenser
+Environment
+Protecting Coating 4D Airflow
+Superior Remote Control Design
+(Large LCD, IPX5 waterproof)
+Prevents from Dust,
+Short Circuit & Rain
+Quick Cooling
+& Heating
+65 Hz
+Startup
+Upto 0.1ºC with
+Improved Sensing Accuracy
+Self-Diagnosis
+for Low Refrigerant
+Precise Ai
+Temperature
+Control
+Labyrinth
+PCB
+& Outdoor
+Design
+5 Step Power Limit
+Gold Fin Evaporator
+& Condenser
+Environment
+Protecting Coating
+Self-Cleaning
+Evaporator4D Airflow
+Superior Remote Control Design
+(Large LCD, IPX5 waterproof)
+Prevents from Dust,
+Short Circuit & Rain
+Quick Cooling
+& Heating
+65 Hz
+Startup
+Upto 0.1ºC with
+Improved Sensing Accuracy
+Self-Diagnosis
+for Low Refrigerant
+Precise Ai
+Temperature
+Control
+Multi Health Filters
+(Vitamin C, Carbon Filter
+& Anti Formaldehyde)
+Labyrinth
+PCB
+& Outdoor
+Design
+- Available in Elegant White, Black & Grey Glossy ﬁnish
+- R32 Refrigerant 
+   R32 is more efﬁcient and cost less to operate
+- Self-Cleaning Evaporator
+- Labyrinth Design PCB and Outdoor Design
+   Prevents from dust, moisture, short circuit and rain
+- Environmental Protection Coating - EPC
+- Gold Fin Evaporator & Condenser
+- 4D Airﬂow
+- WIFI Ready - USB Connectivity with Convenience
+- 5 Step Power Limit Remote
+- R32 Refrigerant
+   R32 is more efﬁcient and cost less
+   to operate
+- Labyrinth Design PCB and Outdoor Design 
+   Prevents from dust, moisture, short circuit
+   and rain
+- Environmental Protection Coating - EPC
+- Gold Fin Evaporator & Condenser
+- Low Voltage Operation 150-270V
+- 5 Step Power Limit Remote
+- Self-Diagnosis for Low Refrigerant
+- Superior Remote Control Design
+   (Large LCD, IPX5 Waterproof)
+- Precise Ai Temperature Control
+  Up to 0.1º with Improved
+  Sensing Accuracy 
+- 4D Airﬂow
+- 65 Hz Startup – Quick Cooling 
+Emperor  Series  (Cool only) 
+COOL ONLY
+- Multi - Health Filters
+- 5 Step Power Limit Remote
+- Self-Diagnosis for Low Refrigerant
+- Superior Remote Control Design
+   (Large LCD, IPX5 Waterproof) 
+- Precise Ai Temperature Control
+   Up to 0.1º with Improved Sensing Accuracy 
+- 4D Airﬂow
+- WIFI Ready - USB Connectivity
+  with Convenience
+- 65 Hz Startup - Quick Cooling
+  & Heating
+- R32 Refrigerant
+   R32 is more efﬁcient and cost less 
+   to operate
+- Self-Cleaning Evaporator
+- Labyrinth Design PCB and Outdoor Design 
+   Prevents from dust, moisture, shortcircuit
+   and rain
+- Environmental Protection Coating - EPC
+- Gold Fin Evaporator & Condenser
+- Low Voltage Operation 150-270
+Emperor  Series
+Solar Compatible
+Low Voltage Operation 
+150-270V
+GLACIER FSU Series
+- Stunning Design Enhance your Home's
+   Appearance
+- Low Voltage Running 130-264V 
+- Precise Ai Temperature Control 
+  Up to 0.1º with Improved Sensing Accuracy
+- Gold Fin Evaporator & Condenser
+- 4D Long Air Throw
+- Power Off Memory
+- E-Heater in IDU (The IDU comes with a
+   heating belt, enhancing the heating
+   effect especially during winter)
+- 30 Second Quick Cooling Performance
+- Environment Protecting Coating
+- Quick Cooling & Heating
+HEAT & COOL
+Environment
+Protecting Coating
+Low Voltage Running 
+130-264V
+Gold Fin Evaporator
+& Condenser
+Quick
+Cooling & HeatingE-Heater
+E
+4D Long Air Throw
+Up To 66 Feet
+ICEBERG FSU Series
+HEAT & COOL
+- Low Voltage Running 130-264V
+- Gold Fin Evaporator & Condenser 
+- Precise AI Temperature Control 
+  Up to 0.1º with Improved Sensing Accuracy 
+- 30 Second Quick Cooling Performance
+- Ampere Control with Remote Controller
+- Environment Protecting Coating
+- Quick Cooling & Heating
+- 4D Long Air Throw
+- Power Off Memory
+*4 Tons Only Environment
+Protecting Coating
+Low Voltage Running 
+130-264V
+Gold Fin Evaporator
+& Condenser
+Quick
+Cooling & Heating
+4D Long Air Throw
+Up To 66 Feet
+ (Max/Avg/Min) = Maximum/Average/Minimum
+ES-12NV02 T3
+  ES-12AR02 T3  
+14330/11976/2730
+14330/12113/2730
+1400/970/200
+1410/880/200
+ ES-18NV02 T3
+ ES-18AR02 T3
+22519/18902/4436
+20813/18902/4436
+2000/1520/500
+1800/1400/420
+Rated Cooling Capacity (Max/Avg/Min) BTU/H
+Rated Heating Capacity (Max/Avg/Min) BTU/H
+Rated Power Consumption –  Cooling (Max/Avg/Min) W
+Rated Power Consumption –  Heating (Max/Avg/Min) W
+nOVO  mAX /ARIO  mAX  Series
+ES-24NV02 T3
+ES-24AR02 T3
+25249/23952/6142
+25590/24055/6142
+2700/1930/230
+2500/1980/230
+Specifica tion
+novo/ario  Series
+ES-12NV01 T3
+  ES-12AR01 T3  
+14330/12283/2730
+14330/12966/2730
+1400/1100/200
+1300/920/200
+Rated Cooling Capacity (Max/Avg/Min) BTU/H
+Rated Heating Capacity (Max/Avg/Min) BTU/H
+Rated Power Consumption –  Cooling (Max/Avg/Min) W
+Rated Power Consumption –  Heating (Max/Avg/Min) W
+ ES-18NV01 T3
+ ES-18AR01 T3
+18425/17401/4436
+19448/17742/4436
+1900/1650/230
+1700/1440/230
+ES-24NV01 T3
+ES-24AR01 T3
+24908/22007/6142
+24908/22007/6142
+3400/1780/230
+3300/1750/230
+Rated Cooling Capacity (Max/Avg/Min) BTU/H
+Rated Heating Capacity (Max/Avg/Min) BTU/H
+Rated Power Consumption –  Cooling (Max/Avg/Min) W
+Rated Power Consumption –  Heating (Max/Avg/Min) W
+  ES-12EM02 
+13648/12044/2730
+14330/12283/2730
+1350/1100/200
+1350/980/200
+ ES-18EM02
+19448/17401/4436
+18766/17742/4436
+2100/1660/290
+1800/1530/250
+ ES-24EM02
+24566/22860/5459
+24566/22519/5459
+2230/2090/350
+2500/1950/350
+Emperor  Series
+Rated Cooling Capacity (Max/Avg/Min) BTU/H
+Rated Power Consumption –  Cooling 
+ ES-12EMC1WS 
+13307/12044/2730
+1270/1150/200
+ ES-10EMC1WS 
+11601/9997/2047
+1150/960/200
+ ES-18EMC1WS 
+19448/18084/4436
+1980/1740/230
+Emperor  Series  (Cool only) 
+ICEBERG FSU Series
+Rated Cooling Capacity (Max/Avg/Min) BTU/H
+Rated Heating Capacity (Max/Avg/Min) BTU/H
+Rated Cooling Input (Max/Avg/Min) W
+Rated Heating Input (Max/Avg/Min) W
+23891/22184/6483
+25597/22867/6143
+2800/2320/600
+2850/2320/550
+52886/47768/22178
+54592/47768/17060
+6000/5350/1300
+5800/4500/1000
+EF-48IB01WEF-24IB01W
+GLACIER FSU Series
+Rated Cooling Capacity (Max/Avg/Min) BTU/H
+Rated Heating Capacity (Max/Avg/Min) BTU/H
+Rated Cooling Input (Max/Avg/Min) W
+Rated Heating Input (Max/Avg/Min) W
+EF-24GL02S
+ 27638/24021/3071
+33097/31391/3071
+3200/2133/300
+ 3400/3160/260
+Rated Cooling Capacity (Max/Avg/Min) BTU/H
+Rated Heating Capacity (Max/Avg/Min) BTU/H
+Rated Power Consumption –  Cooling (Max/Avg/Min) W
+Rated Power Consumption –  Heating (Max/Avg/Min) W
+ ES-12DU02 
+13648/12044/2730
+14330/12283/2730
+1350/1100/200
+1350/980/200
+ ES-18DU02
+19448/17401/4436
+18766/17742/4436
+2100/1660/290
+1800/1530/250
+ ES-24DU02
+24566/22860/5459
+24566/22519/5459
+2230/2090/350
+2500/1950/350
+DUKE  Series
+--- END OF EcoStar AC New Lineup Flyer 2026.pdf ---
+
+--- START OF AirPurifier_Flyer 2025 Output (for PREVIEW ONLY).pdf ---
+--- END OF AirPurifier_Flyer 2025 Output (for PREVIEW ONLY).pdf ---
+
+--- START OF Titan Brousher.pdf ---
+UAN 051 111 000 008
+www.mideapakistan.comMidea Pakistan mideapk
+INTELLIGENT
+POWER
+FOR MODERN LIVING.
+AI
+ECOMASTERT3
+TROPICPRO
+PRIME
+GUARD
+SPACE
+MASTER SMART
+HOME
+Model
+12000
+1105
+4.8
+3.18
+4.2
+12500
+985
+4.28
+3.72
+2200
+13
+8.5/10.8
+1800
+56.0
+4.8/1.5
+MSEZ1B-12HRFN1-
+QC2
+220_240V_1Ph,
+FREQUENCY_50HZ
+1200/1000/800
+590/425/310
+39.5/35.5/33.0
+813x201x289
+870x270x365
+850/600
+ROTARY/GMCC
+720x270x495
+835x300x540
+21.8/23.7
+R410A/0.75
+6.35mm(1/4in)/
+12.7mm(1/2in)
+MSEZ1D-24HRFN1-
+QC2W
+220_240V_1Ph,
+FREQUENCY_50HZ
+24000
+2125
+9.24
+3.31
+4.3
+25000
+1895
+8.24
+3.87
+3950
+1050/900/825
+18.0
+1030/920/860
+45.5/41.5/31.5
+1055x231x330
+1130x405x310
+12.8/16.4
+850/550
+4000
+ROTARY/GMCC
+61.0
+890x342x673
+995x398x740
+40.8/43.9
+R410A/1.65
+4.8/1.5
+9.52mm(3/8in)/
+15.9mm(5/8in)
+MSEZ1C-18HRFN1-
+QC2
+220_240V_1Ph,
+FREQUENCY_50HZ
+18000
+1515
+6.59
+3.48
+4.3
+18500
+1500
+6.52
+3.61
+3100
+1050/898/822
+14.5
+850/660/540
+44/39/28
+975x218x308
+1035x295x385
+10.7/13.5
+950/650
+2500
+ROTARY/GMCC
+58
+805x330x554
+915x370x615
+29.905/32.175
+R410A/1.33
+4.8/1.5
+6.35mm(1/4in)/
+12.7mm(1/2in)
+Power supply
+Cooling
+Heating
+Indoor
+unit
+Outdoor
+unit
+Refrigerant
+type
+Design
+pressure
+Refrigerant
+piping
+Rated Power Input
+Rated Current
+V-Ph-Hz
+Btu/h
+W
+A
+W/W
+W/W
+Btu/h
+W
+A
+W/W
+W
+r/min
+A
+m3/h
+dB(A)
+mm
+mm
+kg
+r/min
+m3/h
+dB(A)
+mm
+mm
+kg
+kg
+MPa
+mm
+(inch)
+Capacity
+Input
+Current
+EER
+CSPF
+Capacity
+Input
+Current
+COP
+Packing (W*D*H)
+Dimension (W*D*H)
+Outdoor noise level
+Compressor Type
+/Brand
+Outdoor air ﬂow
+Speed
+Net/Gross weight
+Packing (W*D*H)
+Dimension (W*D*H)
+Indoor noise level
+(Hi/Mi/Lo)
+Indoor air ﬂow
+(Hi/Mi/Lo)
+Fan motor Speed
+(Hi/Mi/Lo)
+Net/Gross weight
+Refrigerant type
+Design pressure
+Liquid side/
+Gas side
+NEECA CERTIFIED
+PREMIUM AIR CONDITIONING
+MIDEA TITAN SPECIFICATIONS
+MIDEA AC
+UPGRADES SURPRISE
+MOMENTS
+More than 71%
+Energy saving compared to 
+non-inverter air conditioner.
+Precise indoor 
+temperature control 
+based on set 
+temperature. 
+Extra 30%  
+Energy saving when 
+compared to the energy 
+consumption before 
+engaging AI.
+Self-Cleaning inside. Fresh air outside.
+Using high-temperature steam sterilization 
+and millions of ions to neutralize bacteria 
+and viruses, it puriﬁes itself and air inside 
+the room, reducing allergies and discomfort 
+for children and elders. 
+AIR
+MAGIC
+SMART
+HOME
+SPACE
+MASTER
+T3
+TROPICPRO
+AI
+ECOMASTER
+PRIME
+GUARD
+Designed to perform in dust, heat, and humidity.
+Prime Guard conquers humidity, voltage ﬂuctuations, 
+and dust cutting wear & tear and ensuring reliable 
+performance in all climates across Pakistan.
+T3 performance with exceptional cooling eﬃciency 
+faster cooling, reduced wear & tear, and total peace of 
+mind like never before.
+Keeps 100% cooling
+capacity at 48°C  
+Cools down from
+30°C to 24°C in 10 mins 
+Non-stop performance
+at 68°C  
+EASY TO
+INSTALL
+EASY TO
+MAINTAIN
+EASY TO
+CLEAN
+SMARTHOME
+Energy Usage Monitoring 
+Track energy usage with weekly, 
+monthly, and yearly reports, 
+including target setting and 
+threshold alerts.
+One app. Total control.
+Cooling/Heating Forecast 
+Provides an estimated lead time for 
+reaching set temperature. 
+Enhanced Self-Cleaning 
+Evaporator followed by up to 
+56°C high temperature steam 
+sterilization.  
+UV Conformal 
+UV-protected electronics designed to 
+withstand time, moisture, and harsh 
+conditions. 
+Low Voltage 
+Stable performance across extreme 
+voltage ﬂuctuations, from 80V to 
+265V. 
+Dust-proof
+Reverse fan rotation cleans out dust 
+and sand for consistent performance, 
+even in harsh conditions.  
+Graphene Coating 
+2 layers of coating - Fin + Evaporator
+(U-bend coating)
+Dual Negative Ions Generator 
+Allows 99.9% sterilization of 
+Staphylococcus aureus, H1N1, 
+EV71 & E.Coli. 
+Location-Based Service  
+Will automatically turne on/oﬀ when 
+you are about to arrive/leave home.  
+Ecological Connection 
+Supports multiple smart 
+device connections by 
+working with Alexa, Apple 
+Home, Google Home and 
+IFTTT.  
+Sleep Curve | Energy Management | LBS
+Smarter cooling, 
+lower power bills.
+Service-friendly design that saves 
+time.
+MASTER PRECISE CONTROL
+MASTER COMFORT SAVING
+From heatwave to comfort in just 10 minutes. 
+MASTER GIGA DATA 
+High Compatibility
+Maximum piping: 30m horizontal / 15m 
+vertical; minimum 5cm indoor ceiling 
+clearance.
+Exclusive Structure
+Expanded piping space (204mm) with 
+rapid access to PCB and fan motor for 
+faster servicing.
+Corrosion Area   
+<0.02% 
+Rating Number
+9.8
+0.3°C  
+
+--- END OF Titan Brousher.pdf ---
+
+--- START OF MWO 2026.pdf ---
+Air Fryer MWO 
+--- END OF MWO 2026.pdf ---
+
